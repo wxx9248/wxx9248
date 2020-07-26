@@ -1,4 +1,4 @@
-<h1 align="center">Greetings, I'm wxx9248</h1>
+<h1 align="center">Greetings, I'm wxx9248.</h1>
 
 ### About Me
 * My website: [www.wxx9248.tk](https://www.wxx9248.tk)
