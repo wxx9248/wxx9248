@@ -1,6 +1,6 @@
 <h1 align="center">Greetings, this is wxx9248's Github Page.</h1>
 
-## About Me
+### About Me
 * My website: [www.wxx9248.tk](https://www.wxx9248.tk)
 * INTJ
 * Undergraduate
