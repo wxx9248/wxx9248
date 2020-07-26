@@ -1,13 +1,13 @@
 <h1 align="center">Greetings, I'm wxx9248.</h1>
 
 ### About Me
-* My website: [www.wxx9248.tk](https://www.wxx9248.tk)
+* My website:globe_with_meridians:: [www.wxx9248.tk](https://www.wxx9248.tk)
 * INTJ
 * Undergraduate
-	* Computer Science
+	* Computer Science:computer:
 * International student
-	* From Mainland China  :cn:
-	* Studying in Canada :canada:
+	* From Mainland China:cn:
+	* Studying in Canada:canada:
 * Known programming languages: 
 	* ![C](https://img.shields.io/badge/C-C?color=5C6BC0&labelColor=273493&logo=C&logoColor=white)
 	* ![C++](https://img.shields.io/badge/C%2B%2B-C%2B%2B?color=659BD3&labelColor=004283&logo=C%2B%2B&logoColor=white)
@@ -19,7 +19,7 @@
 		* ![Debian](https://img.shields.io/badge/Debian-Debian?color=D70751&labelColor=white&logo=Debian&logoColor=D70751)
 	* ![Windows](https://img.shields.io/badge/Windows-Windows?color=0079D7&labelColor=white&logo=Windows&logoColor=0079D7)
 * Loyal fan of the movie series _"How To Train Your Dragon"_
-* Games
+* Games:video_game:
 	* Minecraft
 	* Undertale
 	* Rhythm games
@@ -27,4 +27,4 @@
 		* Arcaea
 		* Malody 4K
 		* BanG Dream!
-* Currently literally doing nothing but being lazy (LOL)
+* Currently literally doing nothing but being lazy:joy:
