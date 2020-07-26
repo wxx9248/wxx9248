@@ -1,5 +1,4 @@
 <h1 align="center">Greetings, this is wxx9248's Github Page.</h1>
-<hr>
 
 ## About Me
 * My website: [www.wxx9248.tk](https://www.wxx9248.tk)
@@ -19,7 +18,7 @@
 		* ![Ubuntu](https://img.shields.io/badge/Ubuntu-Ubuntu?color=DE4815&labelColor=white&logo=Ubuntu&logoColor=DE4815)
 		* ![Debian](https://img.shields.io/badge/Debian-Debian?color=D70751&labelColor=white&logo=Debian&logoColor=D70751)
 	* ![Windows](https://img.shields.io/badge/Windows-Windows?color=0079D7&labelColor=white&logo=Windows&logoColor=0079D7)
-* Loyal fan of the movie series ```diff @@"How To Train Your Dragon@@```
+* Loyal fan of the movie series _"How To Train Your Dragon"_
 * Games
 	* Minecraft
 	* Undertale
@@ -28,4 +27,4 @@
 		* Arcaea
 		* Malody 4K
 		* BanG Dream!
-* Currently literally doing nothing but being lazy (lol)
+* Currently literally doing nothing but being lazy (LOL)
