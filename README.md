@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<p style="text-align:center;">
                                                                                ,---.-,    
                                         ,---.-,                         ,--,  '   ,'  '.  
                                        '   ,'  '.       ,----,        ,--.'| /   /      \ 
@@ -15,7 +15,8 @@
    \   \ |    `---'  `--` `---'  `--`     ;   |.' ;   | .'            '  ,/ |   :      /  
     '---"                                 '---'   `---'               '--'   \   \   .'   
                                                                               `---`-'     
-</div>
+</p>
+
 ### About Me
 * My website:globe_with_meridians:: [www.wxx9248.tk](https://www.wxx9248.tk)
 * INTJ:gear:
