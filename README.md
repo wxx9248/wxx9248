@@ -14,7 +14,7 @@
 	* ![Python](https://img.shields.io/badge/Python-Python?color=F8BE30&labelColor=356690&logo=Python&logoColor=white)
 	* ![Java](https://img.shields.io/badge/Java-Java?color=5382A1&labelColor=F8981D&logo=Java&logoColor=white)
 * Development platforms: 
-	* ![Linux](https://img.shields.io/badge/Linux-Linux?color=F8BF11&labelColor=black&logo=Linux&logoColor=white)
+	* ![Linux](https://img.shields.io/badge/Linux-Linux?color=F8BF11&labelColor=white&logo=Linux&logoColor=black)
 		* ![Ubuntu](https://img.shields.io/badge/Ubuntu-Ubuntu?color=DE4815&labelColor=white&logo=Ubuntu&logoColor=DE4815)
 		* ![Debian](https://img.shields.io/badge/Debian-Debian?color=D70751&labelColor=white&logo=Debian&logoColor=D70751)
 	* ![Windows](https://img.shields.io/badge/Windows-Windows?color=0079D7&labelColor=white&logo=Windows&logoColor=0079D7)
