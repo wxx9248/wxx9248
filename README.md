@@ -1,8 +1,24 @@
-<h1 align="center">Greetings, I'm wxx9248.</h1>
-
+<div style="text-align:center;">
+                                                                               ,---.-,    
+                                        ,---.-,                         ,--,  '   ,'  '.  
+                                       '   ,'  '.       ,----,        ,--.'| /   /      \ 
+                                      /   /      \    .'   .' \    ,--,  | :.   ;  ,/.  : 
+         .---.                       .   ;  ,/.  :  ,----,'    |,---.'|  : ''   |  | :  ; 
+        /. ./| ,--,  ,--,  ,--,  ,--,'   |  | :  ;  |    :  .  ;;   : |  | ;'   |  ./   : 
+     .-'-. ' | |'. \/ .`|  |'. \/ .`|'   |  ./   :  ;    |.'  / |   | : _' ||   :       , 
+    /___/ \: | '  \/  / ;  '  \/  / ;|   :       ,  `----'/  ;  :   : |.'  | \   \     /  
+ .-'.. '   ' .  \  \.' /    \  \.' /  \   \      |    /  ;  /   |   ' '  ; :  ;   ,   '\  
+/___/ \:     '   \  ;  ;     \  ;  ;   `---`---  ;   ;  /  /-,  \   \  .'. | /   /      \ 
+.   \  ' .\     / \  \  \   / \  \  \     |   |  |  /  /  /.`|   `---`:  | '.   ;  ,/.  : 
+ \   \   ' \ |./__;   ;  \./__;   ;  \    '   :  ;./__;      :        '  ; |'   |  | :  ; 
+  \   \  |--" |   :/\  \ ;|   :/\  \ ;    |   |  '|   :    .'         |  : ;'   |  ./   : 
+   \   \ |    `---'  `--` `---'  `--`     ;   |.' ;   | .'            '  ,/ |   :      /  
+    '---"                                 '---'   `---'               '--'   \   \   .'   
+                                                                              `---`-'     
+</div>
 ### About Me
 * My website:globe_with_meridians:: [www.wxx9248.tk](https://www.wxx9248.tk)
-* INTJ
+* INTJ:gear:
 * Undergraduate
 	* Computer Science:computer:
 * International student
@@ -18,7 +34,7 @@
 		* ![Ubuntu](https://img.shields.io/badge/Ubuntu-Ubuntu?color=DE4815&labelColor=white&logo=Ubuntu&logoColor=DE4815)
 		* ![Debian](https://img.shields.io/badge/Debian-Debian?color=D70751&labelColor=white&logo=Debian&logoColor=D70751)
 	* ![Windows](https://img.shields.io/badge/Windows-Windows?color=0079D7&labelColor=white&logo=Windows&logoColor=0079D7)
-* Loyal fan of the movie series _"How To Train Your Dragon"_
+* Loyal fan of the movie series _"How To Train Your Dragon"_:dragon_face:
 * Games:video_game:
 	* Minecraft
 	* Undertale
