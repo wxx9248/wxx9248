@@ -26,6 +26,7 @@
 	* ![Linux](https://img.shields.io/badge/Linux-Linux?color=black&labelColor=white&logo=Linux&logoColor=black)
 		* ![Ubuntu](https://img.shields.io/badge/Ubuntu-Ubuntu?color=DE4815&labelColor=white&logo=Ubuntu&logoColor=DE4815)
 		* ![Debian](https://img.shields.io/badge/Debian-Debian?color=D70751&labelColor=white&logo=Debian&logoColor=D70751)
+		* ![Manjaro](https://img.shields.io/badge/Manjaro-Manjaro?color=35BF5C&labelColor=white&logo=Manjaro&logoColor=35BF5C)
 	* ![Windows](https://img.shields.io/badge/Windows-Windows?color=0079D7&labelColor=white&logo=Windows&logoColor=0079D7)
 * Loyal fan of the movie series _"How To Train Your Dragon"_:dragon_face:
 * Games:video_game:
