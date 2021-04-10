@@ -37,4 +37,6 @@
 		* Arcaea
 		* Malody 4K
 		* BanG Dream!
+		* Project SEKAI COLORFUL STAGE!
+		* Phigros
 * Currently literally doing nothing but being lazy:joy:
