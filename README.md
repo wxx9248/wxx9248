@@ -22,11 +22,11 @@
     * :uk: English
     * :jp: Learning Japanese now...
 * :hash: Programs with:
-    * ![C](https://img.shields.io/badge/C-C?color=5C6BC0&labelColor=273493&logo=C&logoColor=white)
-    * ![C++](https://img.shields.io/badge/C%2B%2B-C%2B%2B?color=659BD3&labelColor=004283&logo=C%2B%2B&logoColor=white)
-    * ![Python](https://img.shields.io/badge/Python-Python?color=F8BE30&labelColor=356690&logo=Python&logoColor=white)
-    * ![Java](https://img.shields.io/badge/Java-Java?color=1D6F86&labelColor=E33639&logo=Java&logoColor=white)
-    * ![Go](https://img.shields.io/badge/Go-Go?color=12ADD6&labelColor=white&logo=Go&logoColor=12ADD6)
+    * ![C](https://img.shields.io/badge/C-C?color=5C6BC0&labelColor=283593&logo=C&logoColor=white)
+    * ![C++](https://img.shields.io/badge/C%2B%2B-C%2B%2B?color=659AD2&labelColor=004482&logo=C%2B%2B&logoColor=white)
+    * ![Python](https://img.shields.io/badge/Python-Python?color=FFE052&labelColor=387EB8&logo=Python&logoColor=white)
+    * ![Java](https://img.shields.io/badge/Java-Java?color=3174B9&labelColor=CA3132&logo=Java&logoColor=white)
+    * ![Go](https://img.shields.io/badge/Go-Go?color=00ACD7&labelColor=white&logo=Go&logoColor=00ACD7)
 * :computer: Develops on: 
     * ![Linux](https://img.shields.io/badge/Linux-Linux?color=F7C030&labelColor=white&logo=Linux&logoColor=black)
         * ![Ubuntu](https://img.shields.io/badge/Ubuntu-Ubuntu?color=DE4815&labelColor=white&logo=Ubuntu&logoColor=DE4815)
