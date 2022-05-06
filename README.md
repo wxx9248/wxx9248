@@ -34,7 +34,7 @@
     * ![Windows](https://img.shields.io/badge/Windows-Windows?color=0079D7&labelColor=white&logo=Windows&logoColor=0079D7)
     * ![Android](https://img.shields.io/badge/Android-Android?color=3ADD85&labelColor=white&logo=Android&logoColor=3ADD85)
 * :necktie: Works at:
-    * :blue_car: Ford Motor Company Canada (CO-OP) (Current)
+    * :blue_car: Ford Motor Company Canada (CO-OP)
         * Software Developer (Build System and Tools)
 * :video_game: Plays:
     * Minecraft
