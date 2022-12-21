@@ -7,6 +7,9 @@
     <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=wxx9248&theme=github_dark&hide_border=true" />
 </div>
 
+## Random Badges
+[![wakatime](https://wakatime.com/badge/user/475b3231-2938-4175-b2e1-c47b0bae63ed.svg)](https://wakatime.com/@475b3231-2938-4175-b2e1-c47b0bae63ed)
+
 ## About Me
 * :globe_with_meridians: [My website](https://www.wxx9248.tk)
 * :page_with_curl: [LinkedIn Profile](https://www.linkedin.com/in/wxx9248)
@@ -28,7 +31,7 @@
     * ![Java](https://img.shields.io/badge/Java-Java?color=3174B9&labelColor=CA3132&logo=OpenJDK&logoColor=white)
     * ![Go](https://img.shields.io/badge/Go-Go?color=00ACD7&labelColor=white&logo=Go&logoColor=00ACD7)
     * ![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript?color=f7df1e&labelColor=white&logo=JavaScript&logoColor=f7df1e)
-* :computer: Develops on: 
+* :computer: Develops for: 
     * ![Linux](https://img.shields.io/badge/Linux-Linux?color=F7C030&labelColor=white&logo=Linux&logoColor=black)
         * ![Ubuntu](https://img.shields.io/badge/Ubuntu-Ubuntu?color=DE4815&labelColor=white&logo=Ubuntu&logoColor=DE4815)
         * ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-Arch%20Linux?color=1793D1&labelColor=white&logo=ArchLinux&logoColor=1793D1)
@@ -38,13 +41,12 @@
     * :blue_car: Ford Motor Company Canada (CO-OP)
         * Software Developer (Build System and Tools)
 * :video_game: Plays:
-    * Minecraft
-    * Undertale/Deltarune
+    * :gem: Minecraft
     * :notes: Rhythm games
-        * Cytus series
         * Arcaea
-        * Malody 4K
+        * Malody 4K/slide
         * DanceRail3
+        * Cytus series
         * BanG Dream!
         * Project SEKAI COLORFUL STAGE!
         * Phigros
