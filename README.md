@@ -9,6 +9,7 @@
 
 ## Random Badges
 [![wakatime](https://wakatime.com/badge/user/475b3231-2938-4175-b2e1-c47b0bae63ed.svg)](https://wakatime.com/@475b3231-2938-4175-b2e1-c47b0bae63ed)
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 
 ## About Me
 * :globe_with_meridians: [My website](https://www.wxx9248.tk)
