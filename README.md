@@ -12,7 +12,7 @@
 [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 
 ## About Me
-* :globe_with_meridians: [My website](https://www.wxx9248.tk)
+* :globe_with_meridians: [My website](https://www.wxx9248.top)
 * :page_with_curl: [LinkedIn Profile](https://www.linkedin.com/in/wxx9248)
 * :gear: INTJ
 * :pisces: Pisces
@@ -31,7 +31,7 @@
     * ![Python](https://img.shields.io/badge/Python-Python?color=FFE052&labelColor=387EB8&logo=Python&logoColor=white)
     * ![Java](https://img.shields.io/badge/Java-Java?color=3174B9&labelColor=CA3132&logo=OpenJDK&logoColor=white)
     * ![Go](https://img.shields.io/badge/Go-Go?color=00ACD7&labelColor=white&logo=Go&logoColor=00ACD7)
-    * ![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript?color=f7df1e&labelColor=white&logo=JavaScript&logoColor=f7df1e)
+    * ![TypeScript](https://img.shields.io/badge/TypeScript-TypeScript?color=3178c6&labelColor=white&logo=TypeScript&logoColor=3178c6)
 * :computer: Develops for: 
     * ![Linux](https://img.shields.io/badge/Linux-Linux?color=F7C030&labelColor=white&logo=Linux&logoColor=black)
         * ![Ubuntu](https://img.shields.io/badge/Ubuntu-Ubuntu?color=DE4815&labelColor=white&logo=Ubuntu&logoColor=DE4815)
