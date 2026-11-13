@@ -87,7 +87,7 @@
 ### :chart_with_upwards_trend: Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wxx9248&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/wxx9248/wxx9248/output/activity-graph.svg" alt="Activity Graph" width="100%" />
 </div>
 
 ---
