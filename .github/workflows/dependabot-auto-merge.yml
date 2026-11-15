@@ -1,0 +1,28 @@
+# Approves Dependabot's minor and patch updates and merges them. Major updates
+# wait for a person. If master gets a ruleset with required checks, the merge
+# waits for them; this workflow runs again after Dependabot rebases.
+name: Dependabot Auto-Merge
+
+on:
+  pull_request:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.user.login == 'dependabot[bot]'
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      PR_URL: ${{ github.event.pull_request.html_url }}
+    steps:
+      - id: metadata
+        uses: dependabot/fetch-metadata@v3.1.0
+
+      - if: steps.metadata.outputs.update-type != 'version-update:semver-major'
+        run: gh pr review --approve "$PR_URL"
+
+      - if: steps.metadata.outputs.update-type != 'version-update:semver-major'
+        run: gh pr merge --auto --squash "$PR_URL"
