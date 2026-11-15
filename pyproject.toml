@@ -1,0 +1,14 @@
+# Python for scripts/activity_graph.py, run through `uv run`, which provides
+# Python and these packages. The script only uses the standard library. The
+# Python version used is in .python-version.
+[project]
+name = "wxx9248-profile"
+version = "0"
+requires-python = ">=3.14"
+dependencies = []
+
+[tool.uv]
+required-version = ">=0.13"
+package = false
+# Skip releases younger than a day, matching Dependabot's cooldown.
+exclude-newer = "1 day"
