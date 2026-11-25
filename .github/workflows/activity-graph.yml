@@ -32,7 +32,7 @@ jobs:
         with:
           persist-credentials: false
       # Python from .python-version, with the packages in uv.lock.
-      - uses: astral-sh/setup-uv@v10.3.3
+      - uses: astral-sh/setup-uv@v10.4.0
 
       - name: Render activity graph
         env:
